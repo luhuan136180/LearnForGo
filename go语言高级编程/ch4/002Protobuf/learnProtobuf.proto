@@ -1,0 +1,103 @@
+syntax = "proto3";
+//文件的第一行声明标识你使用proto3语法：
+// 如果你不写这句声明，pb编译器会假设你使用的proto2。
+// 它必须是.proto文件中第一个非空、非注释的语句。
+package main;
+
+import "google/protobuf/any.proto";
+
+message String{
+  string value = 1;
+}
+
+message SearchRequest {
+  string query = 1;
+  int32 page_number = 2;
+  int32 result_per_page = 3;
+  enum Corpus {
+//每个枚举类型的定义必须包括一个映射为0的常量作为它的第一个成员
+
+    UNIVERSAL = 0;
+    WEB = 1;
+    IMAGES = 2;
+    LOCAL = 3;
+    NEWS = 4;
+    PRODUCTS = 5;
+    VIDEO = 6;
+  }
+  Corpus corpus = 4;
+}
+
+//你可以通过给不同的枚举变量赋予相同的值来定义别名（别名：alias）。前提是你需要设置allow_alias选项为true，否则pb编译器会报error异常。
+message MyMessage1 {
+  enum EnumAllowingAlias {
+    option allow_alias = true;
+    UNKNOWN = 0;
+    STARTED = 1;
+    RUNNING = 1;
+  }
+}
+message MyMessage2 {
+  enum EnumNotAllowingAlias {
+    UNKNOWN = 0;
+    STARTED = 1;
+    // RUNNING = 1;  // Uncommenting this line will cause a compile error inside Google and a warning message outside.
+  }
+}
+//1.5调用
+message SearchResponse {
+  repeated Result results = 1;
+}
+
+message Result {
+  string url = 1;
+  string title = 2;
+  repeated string snippets = 3;
+}
+//1.6. 嵌套类型
+message SearchResponse2 {
+  message Result2 {
+    string url = 1;
+    string title = 2;
+    repeated string snippets = 3;
+  }
+  repeated Result results = 1;
+}
+message SomeOtherMessage {
+  SearchResponse2.Result2 result = 1;
+}
+
+//message中你想嵌套多少就能嵌套多少层message。
+message Outer {                  // Level 0
+  message MiddleAA {  // Level 1
+    message Inner {   // Level 2
+      int64 ival = 1;
+      bool  booly = 2;
+    }
+  }
+  message MiddleBB {  // Level 1
+    message Inner {   // Level 2
+      int32 ival = 1;
+      bool  booly = 2;
+    }
+  }
+}
+
+//Any类型
+//Any类型可以让你在不知道message定义的情况下把一个message作为字段的类型。
+message ErrorStatus{
+  string message =1;
+  repeated google.protobuf.Any details = 2;
+}
+
+//Oneof
+//如果你在一个message中有很多个字段，
+// 但是同时最多只有一个字段被设置，
+// 你可以通过oneof来解决这个问题同时节省内存。
+
+message sampleMessage {
+  oneof test_oneof{
+    string name =4;
+//    SubMessage sub_message = 9;
+  }
+}
