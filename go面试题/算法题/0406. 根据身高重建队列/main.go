@@ -7,7 +7,7 @@ func reconstructQueue(people [][]int) [][]int {
 		if people[i][0] == people[j][0] { //对比身高是否一致
 			return people[i][1] < people[j][1] ////这个才是当身高相同时，将K按照从小到大排序
 		}
-		return people[i][0] > people[j][0] ////这个只是确保身高按照由大到小的顺序来排，并不确定K是按照从小到大排序的
+		return people[i][0] > people[j][0] //这个只是确保身高按照由大到小的顺序来排，并不确定K是按照从小到大排序的
 	})
 	//再按照k进行插入排序，优先插入k小的
 	result := make([][]int, 0)
