@@ -11,6 +11,7 @@ type Error struct {
 	details []string `json:"details"`
 }
 
+//全局变量，用于存储 code和其对应的msg，不仅仅局限于常规的以写死的code
 var codes = map[int]string{}
 
 func NewError(code int, msg string) *Error {

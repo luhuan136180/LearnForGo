@@ -46,24 +46,21 @@
                         "in": "query"
                     },
                     {
-                        "type": "string",
-                        "example": "score",
-                        "description": "排序依据",
-                        "name": "order",
-                        "in": "query"
-                    },
-                    {
                         "type": "integer",
-                        "example": 1,
                         "description": "页码",
                         "name": "page",
                         "in": "query"
                     },
                     {
                         "type": "integer",
-                        "example": 10,
                         "description": "每页数据量",
                         "name": "size",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "排序依据",
+                        "name": "order",
                         "in": "query"
                     }
                 ],

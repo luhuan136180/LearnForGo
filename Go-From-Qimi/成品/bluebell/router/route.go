@@ -24,10 +24,10 @@ func SetupRouter(mode string) *gin.Engine {
 	//r.Use(logger.GinLogger(), logger.GinRecovery(true), middlewares.RateLimitMiddleware(2*time.Second, 1))
 	r.Use(logger.GinLogger(), logger.GinRecovery(true))
 
-	r.LoadHTMLFiles("./templates/index.html")
-	r.Static("/static", "./static")
+	r.LoadHTMLFiles("./templates/index.html") //加载html文件
+	r.Static("/static", "./static")           //
 
-	r.GET("/", func(c *gin.Context) {
+	r.GET("/", func(c *gin.Context) { //
 		c.HTML(http.StatusOK, "index.html", nil)
 	})
 

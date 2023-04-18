@@ -27,6 +27,7 @@ func GetInstance() *singelton {
 	defer lock.Unlock()
 
 	//只有首次GetInstance()方法被调用，才会生成这个单例的实例
+	//当并发时，可能会重复创建
 	if instance == nil {
 		instance = new(singelton)
 		atomic.StoreUint32(&initialized, 1)

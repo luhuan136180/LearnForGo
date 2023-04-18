@@ -62,3 +62,27 @@ func levelOrder2(root *TreeNode) [][]int {
 	}
 	return res
 }
+func levelOrder4(root *TreeNode) [][]int {
+	res := make([][]int, 0)
+	if root == nil {
+		return res
+	}
+	var curList []*TreeNode
+	curList = append(curList, root)
+	for len(curList) > 0 {
+		var nextList []*TreeNode
+		vals := make([]int, 0)
+		for _, val := range curList {
+			vals = append(vals, val.Val)
+			if val.Left != nil {
+				nextList = append(nextList, val.Left)
+			}
+			if val.Right != nil {
+				nextList = append(nextList, val.Right)
+			}
+		}
+		res = append(res, vals)
+		curList = nextList
+	}
+	return res
+}

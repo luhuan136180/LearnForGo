@@ -4,14 +4,50 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0d9bbe6-0a47-4a50-a945-9732cbb4b768" name="变更" comment="" />
+    <list default="true" id="e0d9bbe6-0a47-4a50-a945-9732cbb4b768" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/blog-service/global/db.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-service/pkg/app/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-service/pkg/app/pagination.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-service/pkg/convert/convert.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-service/pkg/logger/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/.idea/learnGoWithTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/001/hello.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/001/hello_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-service/global/setting.go" beforeDir="false" afterPath="$PROJECT_DIR$/blog-service/global/setting.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-service/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/blog-service/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-service/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/blog-service/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-service/internal/model/model.go" beforeDir="false" afterPath="$PROJECT_DIR$/blog-service/internal/model/model.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-service/internal/routers/api/v1/article.go" beforeDir="false" afterPath="$PROJECT_DIR$/blog-service/internal/routers/api/v1/article.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-service/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/blog-service/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-service/pkg/errcode/errcode.go" beforeDir="false" afterPath="$PROJECT_DIR$/blog-service/pkg/errcode/errcode.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-service/pkg/setting/setting.go" beforeDir="false" afterPath="$PROJECT_DIR$/blog-service/pkg/setting/setting.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goDesignPattern/ch02/05单例模式懒汉式/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../goDesignPattern/ch02/05单例模式懒汉式/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go面试题/算法题/0017. 电话号码的字母组合/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go面试题/算法题/0017. 电话号码的字母组合/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go面试题/算法题/0102. 二叉树的层序遍历/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go面试题/算法题/0102. 二叉树的层序遍历/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go面试题/算法题/0143.重排链表/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go面试题/算法题/0143.重排链表/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go面试题/算法题/0144. 二叉树的前序遍历/second.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go面试题/算法题/0144. 二叉树的前序遍历/second.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go面试题/算法题/0707. 设计链表/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go面试题/算法题/0707. 设计链表/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go面试题/算法题/1049. 最后一块石头的重量 II/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go面试题/算法题/1049. 最后一块石头的重量 II/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../programs/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2F1SPUYdhIpfPOHGZoKRdloFeIU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,7 +63,8 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "D:/LearnForGo/go-programming-tour-book/tour-object1"
+    "last_opened_file_path": "D:/LearnForGo/go-programming-tour-book",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />

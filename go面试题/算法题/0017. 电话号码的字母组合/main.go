@@ -19,6 +19,7 @@ func letterCombinations(digits string) []string {
 	if digits == "" {
 		return res
 	}
+
 	dfs(digits, index)
 	return res
 }

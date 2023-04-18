@@ -1,6 +1,8 @@
 package _144__二叉树的前序遍历
 
-import "container/list"
+import (
+	"container/list"
+)
 
 //迭代法
 //迭代器与要跟迭代元素直接相关，构建迭代用的栈时需要判断类型，不能盲目做

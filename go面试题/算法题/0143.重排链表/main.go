@@ -77,5 +77,6 @@ func mergeList(l1, l2 *ListNode) {
 
 		l2.Next = l1
 		l2 = l2tmp
+
 	}
 }
