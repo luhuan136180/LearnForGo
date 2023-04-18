@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="691be0b6-8be0-4b9c-ac07-6cfd38c55c87" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/global/db.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/global/tracer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/dao/auth.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/dao/dao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/dao/tag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/middleware/access_log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/middleware/app_info.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/middleware/auth.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/middleware/context_timeout.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/middleware/limiter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/middleware/recovery.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/middleware/tracer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/middleware/translation.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/model/auth.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/routers/api/auth.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/routers/api/upload.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/service/auth.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/service/service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/service/tag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/service/upload.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/app/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/app/form.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/app/jwt.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/app/pagination.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/convert/convert.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/email/email.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/errcode/module_code.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/limiter/limiter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/limiter/method_limiter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/logger/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/tracer/traacer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/upload/file.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/util/md5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/.idea/learnGoWithTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/001/hello.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/001/hello_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/002/adder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/002/adder_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/003/Repeat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/003/Repeat_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/004/sum.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/004/sum_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/010concurrency/v1/check_website.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/010concurrency/v1/check_websites.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/010concurrency/v1/check_websites_benchmark_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/010concurrency/v1/check_websites_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/morking/v1/countdown_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/morking/v1/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/morking/v2/countdown_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/morking/v2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/morking/v3/countdown_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/morking/v3/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/morking/v4/countdown.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/morking/v4/countdown_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/morking/v5/countdown.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../learnGoWithTest/morking/v5/countdown_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go-From-Qimi/成品/bluebell/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Go-From-Qimi/成品/bluebell/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go-From-Qimi/成品/bluebell/docs/docs.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Go-From-Qimi/成品/bluebell/docs/docs.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go-From-Qimi/成品/bluebell/docs/swagger.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Go-From-Qimi/成品/bluebell/docs/swagger.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go-From-Qimi/成品/bluebell/docs/swagger.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Go-From-Qimi/成品/bluebell/docs/swagger.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Go-From-Qimi/成品/bluebell/router/route.go" beforeDir="false" afterPath="$PROJECT_DIR$/../Go-From-Qimi/成品/bluebell/router/route.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/configs/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/configs/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/global/setting.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/global/setting.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/model/article.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/model/article.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/model/model.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/model/model.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/model/tag.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/model/tag.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/routers/api/v1/article.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/routers/api/v1/article.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/routers/api/v1/tag.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/routers/api/v1/tag.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/internal/routers/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/errcode/errcode.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/errcode/errcode.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/setting/section.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/setting/section.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/setting/setting.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go-programming-tour-book/blog-service/pkg/setting/setting.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../goDesignPattern/ch02/05单例模式懒汉式/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../goDesignPattern/ch02/05单例模式懒汉式/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go面试题/算法题/0017. 电话号码的字母组合/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go面试题/算法题/0017. 电话号码的字母组合/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go面试题/算法题/0102. 二叉树的层序遍历/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go面试题/算法题/0102. 二叉树的层序遍历/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go面试题/算法题/0143.重排链表/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go面试题/算法题/0143.重排链表/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go面试题/算法题/0144. 二叉树的前序遍历/second.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go面试题/算法题/0144. 二叉树的前序遍历/second.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go面试题/算法题/0707. 设计链表/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go面试题/算法题/0707. 设计链表/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go面试题/算法题/1049. 最后一块石头的重量 II/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go面试题/算法题/1049. 最后一块石头的重量 II/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../programs/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OaUVOgGp3Se9yd1H1lqi10WrIh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "D:/LearnForGo/ProjectFromJiKeTUTU/Gee",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
