@@ -6,7 +6,7 @@ import (
 )
 
 // HandlerFunc定义了gee使用的请求处理程序
-type HandlerFunc func(w http.ResponseWriter, r *http.Request)
+type HandlerFunc func(w http.ResponseWriter, req *http.Request)
 
 //gee引擎实例 实现了Handler接口
 type Engine struct {
@@ -20,8 +20,8 @@ type Engine struct {
 func (engine *Engine) ServeHTTP(w http.ResponseWriter, req *http.Request) {
 	//解析请求的路径，查找路由映射表，如果查到就这行注册的处理方法，如果查不到，就返回404 not found
 
-	key := req.Method + "-" + req.URL.Path
-	if handler, ok := engine.router[key]; ok {
+	key := req.Method + "-" + req.URL.Path     //key：请求方法和静态路由地址
+	if handler, ok := engine.router[key]; ok { //寻找是否有这个对应映射
 		handler(w, req)
 	} else {
 		fmt.Fprintf(w, "404 NOT FOUND : %s\n", req.URL)
@@ -29,9 +29,9 @@ func (engine *Engine) ServeHTTP(w http.ResponseWriter, req *http.Request) {
 }
 
 //构建一个引擎的实例
-func New() *Engine {
+func New() *Engine { //初始化引擎实例
 	return &Engine{
-		router: make(map[string]HandlerFunc), //初始化一个新的路由表
+		router: make(map[string]HandlerFunc), //初始化一个新的路由表,此时为空
 	}
 }
 
@@ -54,5 +54,5 @@ func (engine *Engine) POST(pattern string, handler HandlerFunc) {
 
 // Run定义启动http服务器的方法  对http.ListenAndServe（）地包装
 func (engine *Engine) Run(addr string) error {
-	return http.ListenAndServe(addr, engine)
+	return http.ListenAndServe(addr, engine) //输入监听端口，和使用的引擎
 }
