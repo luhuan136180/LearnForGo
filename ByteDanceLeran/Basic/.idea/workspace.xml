@@ -5,222 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b6f3fe4-6fdd-401d-801e-f4e4caf604bf" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Go-From-Qimi/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Go-From-Qimi/.idea/Go-From-Qimi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Go-From-Qimi/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Go-From-Qimi/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Go-From-Qimi/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Go-From-Qimi/前端" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day1-http-base/base3/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day2-context/gee/context.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day2-context/gee/gee.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day2-context/gee/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day2-context/gee/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day2-context/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day2-context/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day3-router/gee/context.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day3-router/gee/gee.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day3-router/gee/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day3-router/gee/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day3-router/gee/router_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day3-router/gee/trie.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day3-router/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day3-router/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day4-group/day4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day4-group/gee/context.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day4-group/gee/gee.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day4-group/gee/gee_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day4-group/gee/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day4-group/gee/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day4-group/gee/trie.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day4-group/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day4-group/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day5-middleware/gee/context.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day5-middleware/gee/gee.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day5-middleware/gee/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day5-middleware/gee/logger.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day5-middleware/gee/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day5-middleware/gee/trie.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day5-middleware/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day5-middleware/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/gee/context.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/gee/gee.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/gee/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/gee/logger.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/gee/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/gee/trie.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/static/css/geektutu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/static/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/templates/arr.tmpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/templates/css.tmpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day6-template/templates/custom_func.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go-by-example/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go-by-example/.idea/go-by-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go-by-example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go-by-example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go-by-example/guessing-game/v1-learn/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go-by-example/guessing-game/v2-learn/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go-by-example/guessing-game/v3-learn/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go-by-example/guessing-game/v4-learn/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go-by-example/guessing-game/v5-learn/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go-by-example/simpledict/v1-learn/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day7-panic-recover/gee/Recovery.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day7-panic-recover/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day1-lru/geecache/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day1-lru/geecache/lru/lru.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day1-lru/geecache/lru/lru_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day1-lru/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/byteview.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/geecache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/geecahce_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/lru/lru.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/lru/lru_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/byteview.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/consistenthash/consistenthash.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/consistenthash/consistenthash_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/geecache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/geecahce_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/http.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/lru/lru.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/lru/lru_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/byteview.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/cache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/consistenthash/consistenthash.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/geecache.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/geecahce_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/http.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/lru/lru.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/lru/lru_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/peers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2-go-project-example/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day2-go-project-example/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2-go-project-example/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/day2-go-project-example/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2-go-project-example/handler/publish_post.go" beforeDir="false" afterPath="$PROJECT_DIR$/day2-go-project-example/handler/publish_post.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2-go-project-example/sever.go" beforeDir="false" afterPath="$PROJECT_DIR$/day2-go-project-example/sever.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-by-example" beforeDir="false" afterPath="$PROJECT_DIR$/go-by-example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-by-example/guessing-game/v2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-by-example/guessing-game/v2/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-by-example/guessing-game/v3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-by-example/guessing-game/v3/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-by-example/proxy/v1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-by-example/proxy/v1/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-by-example/simpledict/v3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-by-example/simpledict/v3/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-pprof-practice/animal/canidae/dog/dog.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-pprof-practice/animal/canidae/dog/dog.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-pprof-practice/animal/canidae/wolf/wolf.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-pprof-practice/animal/canidae/wolf/wolf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-pprof-practice/animal/felidae/tiger/tiger.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-pprof-practice/animal/felidae/tiger/tiger.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-pprof-practice/animal/muridae/mouse/mouse.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-pprof-practice/animal/muridae/mouse/mouse.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-pprof-practice/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-pprof-practice/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/Gin -deep" beforeDir="false" afterPath="$PROJECT_DIR$/../../Go-From-Qimi/Gin -deep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/._bluebell" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._.air.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._.idea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._Dockerfile.back" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._bluebell_community.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._bluebell_post.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._bluebell_user.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._dao" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._docs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._init.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._logger" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._logic" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._middlewares" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._models" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._nginx.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._nginx2.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._router" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._setting" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._templates" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._wait-for.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/._web_app.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/._.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/._.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/._bluebell.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/._dataSources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/._dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/._dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/._misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/._modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/._vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/._watcherTasks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/._workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/dataSources/._9259a9b6-0e3d-421f-9fab-4f0f9826f674" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/dataSources/._9259a9b6-0e3d-421f-9fab-4f0f9826f674.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/dataSources/9259a9b6-0e3d-421f-9fab-4f0f9826f674/._storage_v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/dataSources/9259a9b6-0e3d-421f-9fab-4f0f9826f674/storage_v2/.__src_" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/dataSources/9259a9b6-0e3d-421f-9fab-4f0f9826f674/storage_v2/_src_/._schema" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/.idea/dataSources/9259a9b6-0e3d-421f-9fab-4f0f9826f674/storage_v2/_src_/schema/._information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/bin/._.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/conf/._config.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/controller/._code.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/controller/._community.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/controller/._doc_response_models.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/controller/._post.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/controller/._post_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/controller/._request.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/controller/._response.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/controller/._user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/controller/._validator.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/controller/._vote.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/dao/._mysql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/dao/._redis" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/dao/mysql/._community.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/dao/mysql/._error_code.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/dao/mysql/._mysql.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/dao/mysql/._post.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/dao/mysql/._post_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/dao/mysql/._user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/dao/redis/._keys.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/dao/redis/._post.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/dao/redis/._redis.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/dao/redis/._vote.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/docs/._docs.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/docs/._swagger.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/docs/._swagger.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/logger/._logger.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/logic/._community.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/logic/._post.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/logic/._user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/logic/._vote.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/middlewares/._auth.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/middlewares/._ratelimit.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/models/._community.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/models/._create_table.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/models/._params.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/models/._post.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/models/._struct_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/models/._user.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/pkg/._jwt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/pkg/._snowflake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/pkg/jwt/._jwt.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/pkg/snowflake/._snowflake.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/router/._route.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell/setting/._setting.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/._README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/._babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/._package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/._public" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/._src" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/public/._index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/public/static/._favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/._App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/._assets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/._components" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/._main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/._router" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/._service" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/._store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/._views" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/._css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/._font" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/._images" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/._logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/css/._iconfont.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/font/._iconfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/font/._iconfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/font/._iconfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/font/._iconfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/font/._iconfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/images/._avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/images/._banner-background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/images/._logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/assets/images/._search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/components/._ToTop.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/views/._Content.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/__MACOSX/bluebell_frontend/src/views/._SignUp.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/.browserslistrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/public/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/App.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/assets/css/iconfont.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/assets/font/iconfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/assets/font/iconfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/assets/font/iconfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/assets/font/iconfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/assets/font/iconfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/assets/images/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/assets/images/banner-background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/assets/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/assets/images/search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/components/HeadBar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/components/ToTop.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/router/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/service/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/store/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/views/Content.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/views/Home.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/views/Login.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/views/Publish.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/src/views/SignUp.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/成品/bluebell_frontend/vue.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day1-http-base/base2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day1-http-base/base2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day1-http-base/base3/gee/gee.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day1-http-base/base3/gee/gee.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day1-http-base/base3/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day1-http-base/base3/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/前端" beforeDir="false" afterPath="$PROJECT_DIR$/../../Go-From-Qimi/前端" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day7-panic-recover/gee/gee.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day7-panic-recover/gee/gee.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../projectFromGIthub" beforeDir="false" afterPath="$PROJECT_DIR$/../../projectFromGIthub" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -228,18 +77,32 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../programs/go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/go-pprof-practice" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OiMbbcky9gw7U8PPYD9RXrtEi9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultGoTemplateProperty": "Go File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
@@ -249,13 +112,84 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "D:/LearnForGo/ByteDanceLeran/Basic",
+    "last_opened_file_path": "D:/LearnForGo/ProjectFromJiKeTUTU/Gee",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Go 构建.go build github.com/wangkechun/go-by-example/guessing-game/v5-learn">
+    <configuration name="go build github.com/wangkechun/go-by-example/guessing-game/v5-learn" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <working_directory value="$PROJECT_DIR$/go-by-example" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wangkechun/go-by-example/guessing-game/v5-learn" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/go-by-example/guessing-game/v5-learn/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/wangkechun/go-by-example/proxy/v1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <working_directory value="$PROJECT_DIR$/go-by-example" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wangkechun/go-by-example/proxy/v1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/go-by-example/proxy/v1/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/wangkechun/go-by-example/simpledict/v3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <working_directory value="$PROJECT_DIR$/go-by-example" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wangkechun/go-by-example/simpledict/v3" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/go-by-example/simpledict/v3/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/wangkechun/go-by-example/simpledict/v4" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <working_directory value="$PROJECT_DIR$/go-by-example" />
+      <parameters value="again" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wangkechun/go-by-example/simpledict/v4" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/go-by-example/simpledict/v4/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/wolfogre/go-pprof-practice" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <working_directory value="$PROJECT_DIR$/go-pprof-practice" />
+      <kind value="PACKAGE" />
+      <package value="github.com/wolfogre/go-pprof-practice" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/go-pprof-practice/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build github.com/wangkechun/go-by-example/guessing-game/v5-learn" />
+        <item itemvalue="Go 构建.go build github.com/wolfogre/go-pprof-practice" />
+        <item itemvalue="Go 构建.go build github.com/wangkechun/go-by-example/proxy/v1" />
+        <item itemvalue="Go 构建.go build github.com/wangkechun/go-by-example/simpledict/v4" />
+        <item itemvalue="Go 构建.go build github.com/wangkechun/go-by-example/simpledict/v3" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
