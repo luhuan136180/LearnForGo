@@ -61,8 +61,21 @@ func SetUpRouter(mode string) *gin.Engine {
 
 		//查询一个帖子的主贴加回复等等等
 		v1.GET("post/getallpost/bypost_key", controller.GetAllPostsByPostKeyHandler)
-		//
 
+		//查询一个用户的余额
+		v1.GET("/user/balance", controller.GetUserBalanceHandler)
+		//进行交易，改变用户余额--添加
+		v1.PUT("/user/add_balance", controller.AddBalanceHandler)
+		//进行交易，改变用户余额--支出
+		v1.PUT("/user/sub_amount", controller.SubBalanceHandler)
+		//修改用户名
+
+		//上传文件？？---纯上传API
+		v1.POST("/file", controller.UploadFile)
+		//上传文件，同时记录上传用户等信息
+		v1.POST("/file/user", controller.UploadFileWithAuthor)
+
+		//获取本地存储的文件
 	}
 	return r
 }

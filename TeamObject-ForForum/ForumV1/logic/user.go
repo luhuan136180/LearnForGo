@@ -43,3 +43,7 @@ func SignUp(user *models.User) (err error) {
 	//保存进数据库
 	return mysql.InsertUser(user)
 }
+
+func GetUserBalance(userid int64) (data *models.Balance, err error) {
+	return mysql.GetUserBalance(userid)
+}

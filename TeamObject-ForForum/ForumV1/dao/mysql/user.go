@@ -63,3 +63,19 @@ func Login(user *models.User) (err error) {
 	//fmt.Println("success ,相等")
 	return
 }
+
+func GetUserBalance(userid int64) (data *models.Balance, err error) {
+	data = new(models.Balance)
+	sqlStr := "select user_id,balance from user where user_id=?"
+	err = Db.Get(data, sqlStr, userid)
+	if err == sql.ErrNoRows {
+		//没有查询到
+		return nil, ErrorUserNotExist
+	}
+	if err != nil {
+		//查询数据库失败
+		return nil, err
+	}
+
+	return
+}
