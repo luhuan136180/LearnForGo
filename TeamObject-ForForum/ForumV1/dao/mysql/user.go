@@ -26,10 +26,10 @@ func CheckUserExist(username string) (bool bool, err error) {
 func InsertUser(user *models.User) (err error) {
 	//对密码加密
 	user.Password = encryptPassword(user.Password)
-
+	user.Balance = 0
 	//执行SQL语句入库
-	sqlStr := "insert into user(user_id,username,password) values(?,?,?)"
-	_, err = Db.Exec(sqlStr, user.UserID, user.Name, user.Password)
+	sqlStr := "insert into user(user_id,username,password,balance) values(?,?,?,?)"
+	_, err = Db.Exec(sqlStr, user.UserID, user.Name, user.Password, user.Balance)
 	return
 }
 
@@ -78,4 +78,31 @@ func GetUserBalance(userid int64) (data *models.Balance, err error) {
 	}
 
 	return
+}
+
+func AddBalance(transcation *models.AmountChange) (data *models.AmountChange, err error) {
+	data = new(models.AmountChange)
+	//fmt.Println(transcation)
+	sqlStr := "select user_id,balance from user where user_id=?"
+	err = Db.Get(data, sqlStr, transcation.UserID)
+	if err != nil {
+		return nil, err
+	}
+	data.Amount += transcation.Amount
+	sqlStr2 := "update user set balance=? where user_id=?"
+	_, err = Db.Exec(sqlStr2, data.Amount, data.UserID)
+	if err != nil {
+		return nil, err
+	}
+	return data, nil
+}
+
+func SubBalance(transaction *models.AmountChange) (data *models.AmountChange, err error) {
+	data = new(models.AmountChange)
+	sqlStr := "update user set balance=balance+? where user_id=?"
+	_, err = Db.Exec(sqlStr, data.Amount, data.Amount)
+	if err != nil {
+		return nil, err
+	}
+	return data, nil
 }

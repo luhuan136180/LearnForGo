@@ -47,3 +47,11 @@ func SignUp(user *models.User) (err error) {
 func GetUserBalance(userid int64) (data *models.Balance, err error) {
 	return mysql.GetUserBalance(userid)
 }
+
+func AddBalance(transaction *models.AmountChange) (data *models.AmountChange, err error) {
+	return mysql.AddBalance(transaction)
+}
+
+func SubBalance(transaction *models.AmountChange) (data *models.AmountChange, err error) {
+	return mysql.SubBalance(transaction)
+}

@@ -85,13 +85,71 @@ func GetUserBalanceHandler(c *gin.Context) {
 	ResponseSuccess(c, data)
 }
 
-//交易--收入
+//交易--收入--只能自己给自己充钱
 func AddBalanceHandler(c *gin.Context) {
 	//使用json绑定
+	transaction := new(models.AmountChange)
+	if err := c.ShouldBindJSON(transaction); err != nil {
+		zap.L().Error("ADDBalance is Err", zap.Error(err))
+		tanser, ok := err.(validator.ValidationErrors)
+		if !ok {
+			ResponseErrorWithMsg(c, CodeInvalidParam, err.Error())
+			return
+		}
+		ResponseErrorWithMsg(c, CodeInvalidParam, removeTopStruct(tanser.Translate(trans)))
+		return
+	}
 
+	if transaction.Amount <= 0 {
+		ResponseErrorWithMsg(c, CodeInvalidParam, "Amount必须是整数")
+		return
+	}
+
+	//userID, err := GetCurrentUser(c)
+	//if err != nil {
+	//	zap.L().Error("GetCurrentUser failed", zap.Error(err))
+	//	ResponseError(c, CodeNeedLogin)
+	//	return
+	//}
+
+	//进入业务流程
+	data, err := logic.AddBalance(transaction)
+	if err != nil {
+		zap.L().Error("logic.AddBalance(transaction) is failed", zap.Error(err))
+		ResponseError(c, CodeMysql)
+		return
+	}
+
+	//成功响应
+	ResponseSuccess(c, data)
 }
 
 //支出
 func SubBalanceHandler(c *gin.Context) {
+	//
+	transaction := new(models.AmountChange)
+	if err := c.ShouldBindJSON(transaction); err != nil {
+		zap.L().Error("SubBalance is Err", zap.Error(err))
+		tanser, ok := err.(validator.ValidationErrors)
+		if !ok {
+			ResponseErrorWithMsg(c, CodeInvalidParam, err.Error())
+			return
+		}
+		ResponseErrorWithMsg(c, CodeInvalidParam, removeTopStruct(tanser.Translate(trans)))
+		return
+	}
+	fmt.Println(transaction)
+	if transaction.Amount >= 0 {
+		ResponseErrorWithMsg(c, CodeInvalidParam, "Amount必须是负数")
+		return
+	}
 
+	data, err := logic.SubBalance(transaction)
+	if err != nil {
+		zap.L().Error("logic.SubBalance(transaction) is failed", zap.Error(err))
+		ResponseError(c, CodeMysql)
+		return
+	}
+	//成功响应
+	ResponseSuccess(c, data)
 }

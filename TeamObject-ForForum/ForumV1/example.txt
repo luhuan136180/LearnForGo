@@ -1,0 +1,12 @@
+msg: {
+    "data": "This is a msg for login",
+    "timestamp": 1610000000000
+}
+
+sign: 0xabcdefg
+
+
+hash=sha3_256(msg)
+pubKey=secp256k1(hash, sign)
+
+if (msg.timestamp + 60000 < time.Now().unxiNano()/1e6)

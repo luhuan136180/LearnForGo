@@ -18,11 +18,11 @@ type Post struct {
 }
 
 type GetPostByKey struct {
-	ID       int64  `json:"id,string" db:"post_id"`                           // 帖子id
-	AuthorID int64  `json:"author_id,string" db:"author_id"`                  // 作者id
-	Title    string `json:"title" db:"title" binding:"required"`              // 帖子标题
-	Content  string `json:"content" db:"content" binding:"required"`          // 帖子内容
-	TopicID  int64  `json:"topic_id,string" db:"topic_id" binding:"required"` // 社区id
+	ID       int64          `json:"id,string" db:"post_id"`                           // 帖子id
+	AuthorID int64          `json:"author_id,string" db:"author_id"`                  // 作者id
+	Title    sql.NullString `json:"title" db:"title" binding:"required"`              // 帖子标题
+	Content  string         `json:"content" db:"content" binding:"required"`          // 帖子内容
+	TopicID  int64          `json:"topic_id,string" db:"topic_id" binding:"required"` // 社区id
 }
 
 type ResponseCreate struct {

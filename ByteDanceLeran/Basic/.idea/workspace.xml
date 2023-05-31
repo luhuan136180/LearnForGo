@@ -15,43 +15,38 @@
       <change afterPath="$PROJECT_DIR$/go-by-example/guessing-game/v4-learn/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/go-by-example/guessing-game/v5-learn/main.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/go-by-example/simpledict/v1-learn/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day7-panic-recover/gee/Recovery.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day7-panic-recover/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day1-lru/geecache/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day1-lru/geecache/lru/lru.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day1-lru/geecache/lru/lru_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day1-lru/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/byteview.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/cache.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/geecache.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/geecahce_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/lru/lru.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day2-single-node/geecache/lru/lru_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/byteview.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/cache.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/consistenthash/consistenthash.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/consistenthash/consistenthash_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/geecache.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/geecahce_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/http.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/lru/lru.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/geecache/lru/lru_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day3-http-server/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/byteview.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/cache.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/consistenthash/consistenthash.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/geecache.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/geecahce_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/http.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/lru/lru.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/lru/lru_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/geecahce/peers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/02GeeCache/day5-multi-nodes/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/.idea/ForumV2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/config/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/controller/code.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/controller/post.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/controller/request.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/controller/response.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/controller/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/controller/validator.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/dao/mysql/error.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/dao/mysql/mysql.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/dao/mysql/post.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/dao/mysql/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/logger/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/logic/post.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/logic/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/middlerWares/auth.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/models/Post.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/models/file.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/models/params.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/pkg/jwt/jwt.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/pkg/snowflake/snowflake.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/router/routers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV2/setting/setting.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day2-go-project-example/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/day2-go-project-example/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day2-go-project-example/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/day2-go-project-example/go.sum" afterDir="false" />
@@ -69,7 +64,16 @@
       <change beforePath="$PROJECT_DIR$/go-pprof-practice/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/go-pprof-practice/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/Gin -deep" beforeDir="false" afterPath="$PROJECT_DIR$/../../Go-From-Qimi/Gin -deep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Go-From-Qimi/前端" beforeDir="false" afterPath="$PROJECT_DIR$/../../Go-From-Qimi/前端" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day2-context/gee/gee.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day2-context/gee/gee.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day3-router/gee/trie.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day3-router/gee/trie.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day7-panic-recover/gee/gee.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectFromJiKeTUTU/Gee/01gee-web/day7-panic-recover/gee/gee.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/controller/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/controller/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/dao/mysql/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/dao/mysql/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/logic/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/logic/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/models/amount.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/models/amount.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/models/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/models/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/router/routers.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/router/routers.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/web_app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../TeamObject-ForForum/ForumV1/web_app.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../projectFromGIthub" beforeDir="false" afterPath="$PROJECT_DIR$/../../projectFromGIthub" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +90,7 @@
   </component>
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../programs/go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/go-pprof-practice" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -99,24 +103,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "D:/LearnForGo/ProjectFromJiKeTUTU/Gee",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/LearnForGo/ByteDanceLeran/Basic&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Go 构建.go build github.com/wangkechun/go-by-example/guessing-game/v5-learn">
+}</component>
+  <component name="RunManager" selected="Go 构建.go build main.go">
     <configuration name="go build github.com/wangkechun/go-by-example/guessing-game/v5-learn" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <working_directory value="$PROJECT_DIR$/go-by-example" />
@@ -133,15 +137,6 @@
       <package value="github.com/wangkechun/go-by-example/proxy/v1" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/go-by-example/proxy/v1/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build github.com/wangkechun/go-by-example/simpledict/v3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Basic" />
-      <working_directory value="$PROJECT_DIR$/go-by-example" />
-      <kind value="PACKAGE" />
-      <package value="github.com/wangkechun/go-by-example/simpledict/v3" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/go-by-example/simpledict/v3/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build github.com/wangkechun/go-by-example/simpledict/v4" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -163,13 +158,21 @@
       <filePath value="$PROJECT_DIR$/go-pprof-practice/main.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test/main.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build github.com/wangkechun/go-by-example/guessing-game/v5-learn" />
+        <item itemvalue="Go 构建.go build main.go" />
         <item itemvalue="Go 构建.go build github.com/wolfogre/go-pprof-practice" />
+        <item itemvalue="Go 构建.go build github.com/wangkechun/go-by-example/guessing-game/v5-learn" />
         <item itemvalue="Go 构建.go build github.com/wangkechun/go-by-example/proxy/v1" />
         <item itemvalue="Go 构建.go build github.com/wangkechun/go-by-example/simpledict/v4" />
-        <item itemvalue="Go 构建.go build github.com/wangkechun/go-by-example/simpledict/v3" />
       </list>
     </recent_temporary>
   </component>
